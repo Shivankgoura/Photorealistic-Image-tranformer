@@ -1,0 +1,5 @@
+{
+  "name": "Photorealistic Image Transformer",
+  "description": "An application that takes any AI-generated image as input and transforms it into an ultra-realistic photo using advanced AI techniques to remove artifacts and enhance quality.",
+  "requestFramePermissions": []
+}
